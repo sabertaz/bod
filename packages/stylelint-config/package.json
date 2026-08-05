@@ -4,14 +4,14 @@
   "description": "StyleLint configuration used by dg-scripts.",
   "author": "sabertazimi <sabertazimi@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/sabertazimi/bod",
+  "homepage": "https://github.com/sabertaz/bod",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabertazimi/bod.git",
+    "url": "git+https://github.com/sabertaz/bod.git",
     "directory": "packages/stylelint-config"
   },
   "bugs": {
-    "url": "https://github.com/sabertazimi/bod/issues"
+    "url": "https://github.com/sabertaz/bod/issues"
   },
   "keywords": [
     "dg-scripts",

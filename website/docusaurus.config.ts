@@ -31,7 +31,7 @@ const config: Config = {
           path: '../docs',
           routeBasePath: 'docs',
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/sabertazimi/bod/edit/main/website/',
+          editUrl: 'https://github.com/sabertaz/bod/edit/main/website/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -102,7 +102,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/sabertazimi/bod',
+          href: 'https://github.com/sabertaz/bod',
           label: 'GitHub',
           position: 'right',
         },
@@ -125,7 +125,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/sabertazimi/bod',
+              href: 'https://github.com/sabertaz/bod',
             },
             {
               label: 'Twitter',

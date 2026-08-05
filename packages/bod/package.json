@@ -8,11 +8,11 @@
   "homepage": "https://tazimi.dev/bod",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabertazimi/bod.git",
+    "url": "git+https://github.com/sabertaz/bod.git",
     "directory": "packages/bod"
   },
   "bugs": {
-    "url": "https://github.com/sabertazimi/bod/issues"
+    "url": "https://github.com/sabertaz/bod/issues"
   },
   "keywords": [
     "bod",

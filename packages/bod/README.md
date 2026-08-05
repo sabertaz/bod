@@ -1,13 +1,13 @@
 # Bod CLI
 
-[![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertazimi)
+[![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
 [![LICENSE](https://img.shields.io/github/license/sabertazimi/bod?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/bod/main/LICENSE)
 
 [![Node Version](https://img.shields.io/node/v/bod?logo=node.js&style=for-the-badge)](https://www.npmjs.com/package/bod)
 [![NPM Version](https://img.shields.io/npm/v/bod?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/bod)
 [![CDN](https://img.shields.io/npm/v/bod?label=CDN&logo=cloudflare&style=for-the-badge)](https://cdn.jsdelivr.net/npm/bod@latest/)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/bod/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertazimi/bod/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/bod/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/bod/actions/workflows/ci.yml)
 [![Vitest Coverage](https://img.shields.io/codecov/c/github/sabertazimi/bod?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertazimi/bod)
 
 Boilerplate CLI App - Create a new project with modern tooling.
@@ -67,6 +67,6 @@ Options:
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabertazimi)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabertaz)
 [![Email](https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabertazimi@gmail.com)
 [![X](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sabertazimi)
