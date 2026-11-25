@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build:docs": "docusaurus build && pnpm build:post",
-    "build:post": "cp -fr build ../",
+    "build:post": "cp -R build ../",
     "clear": "docusaurus clear",
     "lint": "eslint ./src && stylelint ./src/**/*.css",
     "lint:fix": "eslint --fix ./src && stylelint --fix ./src/**/*.css",
