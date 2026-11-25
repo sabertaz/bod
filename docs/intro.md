@@ -1,5 +1,5 @@
 ---
-author: Sabertazimi
+author: Sabertaz
 authorTitle: Web Developer
 authorURL: https://github.com/sabertaz
 authorImageURL: https://github.com/sabertaz.png
@@ -10,11 +10,11 @@ sidebar_position: 1
 # Bod
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/bod?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/bod/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/bod?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/bod/main/LICENSE)
 [![Node Version](https://img.shields.io/node/v/bod?logo=node.js&style=for-the-badge)](https://github.com/sabertaz/bod)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/bod/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/bod/actions/workflows/ci.yml)
-[![Vitest Coverage](https://img.shields.io/codecov/c/github/sabertazimi/bod?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertazimi/bod)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertaz/bod/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/bod/actions/workflows/ci.yml)
+[![Vitest Coverage](https://img.shields.io/codecov/c/github/sabertaz/bod?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertaz/bod)
 
 [![NPM Version](https://img.shields.io/npm/v/@dg-scripts/eslint-config?label=ESLint&logo=eslint&style=for-the-badge)](https://www.npmjs.com/package/@dg-scripts/eslint-config)
 [![NPM Version](https://img.shields.io/npm/v/@dg-scripts/stylelint-config?label=StyleLint&logo=stylelint&style=for-the-badge)](https://www.npmjs.com/package/@dg-scripts/stylelint-config)

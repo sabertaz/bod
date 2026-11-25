@@ -12,7 +12,7 @@ const config: Config = {
   baseUrl: '/bod/',
   onBrokenLinks: 'throw',
   favicon: 'img/logo.svg',
-  organizationName: 'sabertazimi',
+  organizationName: 'sabertaz',
   projectName: 'bod',
   future: {
     v4: true,
@@ -128,8 +128,8 @@ const config: Config = {
               href: 'https://github.com/sabertaz/bod',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/sabertazimi',
+              label: 'X',
+              href: 'https://x.com/sabertaz',
             },
             {
               label: 'Email',
