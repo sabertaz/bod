@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.3.0](https://github.com/sabertaz/bod/compare/v6.2.0...v6.3.0) (2026-11-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies (non-major) ([#1526](https://github.com/sabertaz/bod/issues/1526)) ([256525a](https://github.com/sabertaz/bod/commit/256525a135cca4b9fc6609366e912411f40824a1))
+
+
+### Features
+
+* **bod:** replace CRA/webpack templates with Vite and Next.js scaffolding ([#1523](https://github.com/sabertaz/bod/issues/1523)) ([8689f08](https://github.com/sabertaz/bod/commit/8689f08f769f0ceafb4021d411f99d3f8d1bd5bc))
+
+
+
+
+
 # [6.2.0](https://github.com/sabertazimi/bod/compare/v6.1.2...v6.2.0) (2026-05-19)
 
 

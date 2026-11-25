@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.3.0](https://github.com/sabertaz/bod/compare/v6.2.0...v6.3.0) (2026-11-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies (non-major) ([#1520](https://github.com/sabertaz/bod/issues/1520)) ([349530a](https://github.com/sabertaz/bod/commit/349530a2ac5cd53a004f7c6e8155747e8ae84902))
+* **deps:** update dependencies (non-major) ([#1526](https://github.com/sabertaz/bod/issues/1526)) ([256525a](https://github.com/sabertaz/bod/commit/256525a135cca4b9fc6609366e912411f40824a1))
+
+
+### Features
+
+* **stylelint:** upgrade stylelint to v18 ([#1532](https://github.com/sabertaz/bod/issues/1532)) ([dc84442](https://github.com/sabertaz/bod/commit/dc8444259e4529b82366094cd8c22c1a085c2a96))
+
+
+
+
+
 # [6.2.0](https://github.com/sabertazimi/bod/compare/v6.1.2...v6.2.0) (2026-05-19)
 
 
