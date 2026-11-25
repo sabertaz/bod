@@ -13,10 +13,20 @@ module.exports = {
         ],
       },
     ],
+    'at-rule-prelude-no-invalid': [
+      true,
+      {
+        ignoreAtRules: [
+          'apply',
+          'media',
+        ]
+      }
+    ],
     'at-rule-no-unknown': [
       true,
       {
         ignoreAtRules: [
+          'apply',
           'tailwind',
           'import',
           'theme',
@@ -24,7 +34,6 @@ module.exports = {
           'utility',
           'variant',
           'custom-variant',
-          'apply',
           'reference',
           'config',
           'plugin',
